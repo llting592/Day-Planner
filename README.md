@@ -32,7 +32,7 @@ THEN the saved events persist
 ```
 
 ## Screenshot of Mockup
-![Screenshot]https://github.com/llting592/Day-Planner/blob/main/05-third-party-apis-homework-demo.gif
+![Screenshot](https://github.com/llting592/Day-Planner/blob/main/05-third-party-apis-homework-demo.gif)
 
 ## Link to Deployed Webpage
 [Link to Deployed Webpage](https://llting592.github.io/Day-Planner/)
